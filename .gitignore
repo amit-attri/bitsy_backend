@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+*-audit.json
+*.log*
+dist
+.idea/
+.vscode/
+.DS_Store
+coverage/
+jest-stare/
+junit.xml
+yarn.lock
